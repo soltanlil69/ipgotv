@@ -1,0 +1,391 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.icon2s.com/wp-content/uploads/2013/01/ALLAH-Icon-Golden-Brown.png" group-title="LABEL",~~~~~~ARABISCH~~~~~~
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+
+#EXTINF:-1,MBC1
+http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
+#EXTINF:-1,MBC 2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
+#EXTINF:-1,MBC 3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
+#EXTINF:-1,MBC 4
+http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
+#EXTINF:-1,MBC MAX
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
+#EXTINF:-1,MBC ACTION
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
+#EXTINF:-1,MBC MASR
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+#EXTINF:-1,MBCMASER2
+http://95.170.215.118/hls/m3u8/MBC-Masir-2.m3u8|User-Agent=Lavf/56.15.102
+
+#EXTINF:-1,MBC DRAMA
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
+#EXTINF:-1,MBC BOLLYWOOD
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+#EXTINF:-1,MTV lebanon 
+https://svs.itworkscdn.net/mtvlebanonlive/mtvlive.smil/playlist.m3u8
+#EXTINF:-1,LDC 
+http://livecdnh2.tvanywhere.ae/hls/ldc/04.m3u8
+#EXTINF:-1,LBC SAT 
+http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
+#EXTINF:-1,Aljadeed 
+http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
+#EXTINF:-1,NBN 
+http://livecdnh2.tvanywhere.ae/hls/nbn/04.m3u8
+#EXTINF:-1,OTV 
+http://livecdnh2.tvanywhere.ae/hls/otv_leb/04.m3u8
+#EXTINF:-1,FUTURE 
+http://livecdnh2.tvanywhere.ae/hls/future/04.m3u8
+#EXTINF:-1,Rotana classic 
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
+#EXTINF:-1,Rotana aflam 
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
+#EXTINF:-1,Rotana cinema 
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
+#EXTINF:-1,Rotana masrya drama 
+http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+#EXTINF:-1,Rotana khalijiah 
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
+#EXTINF:-1,Rotana clip 
+http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
+#EXTINF:-1,====[documentary] Quest=============================
+#EXTINF:-1,Al Jazeera Documentary
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+ #EXTINF:-1,Nat geo sd
+http://adtv.ercdn.net/adnatgeo/adnatgeo_360p.m3u8?v=3296041730
+#EXTINF:-1,Nat geo hd
+http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8?v=3296041730
+#EXTINF:-1,NAT GEO PEOPLE AR
+http://streaming.i-sat.tv:8081/livestream/natpepole/chunks.m3u8?sd=10&rebase=on
+#EXTINF:-1,NAT GEO PROPLE HD ARABIC
+http://185.27.116.54:8081/livestream/natpepole/chunks.m3u8
+#EXTINF:-1,Nat geo people HD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1,Nat geo people SD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
+#EXTINF:-1,Nat geo wild SD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+#EXTINF:-1,Nat geo wild HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1,Discovery showcase
+http://95.170.215.118/hls/m3u8/Discovery-Showca.m3u8|User-Agent=Lavf/56.15.102 
+#EXTINF:-1,Nat geo hd
+http://95.170.215.118/hls/m3u8/Nat-Geo-CZ.m3u8|User-Agent=Lavf/56.15.102 
+#EXTINF:-1,Animal planet
+http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1,ANIMAL LIFE
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
+#EXTINF:-1,History
+http://95.170.215.118/hls/m3u8/History.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
+
+#EXTINF:-1,HDTV
+http://95.170.215.120/hls/m3u8/HGTV-HD.m3u8|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1,OSN TLC
+http://95.170.215.120/hls/m3u8/TLC-HD.m3u8|User-Agent=Lavf/56.15.102 
+#EXTINF:-1,FATAFEAT
+http://109.236.92.216:9090/Fatafeat/mpegts
+#EXTINF:-1,CBC SOFRA
+http://109.236.92.216:9090/cbc_sofra/mpegts
+#EXTINF:-1, Alarabiya 
+http://livecdnh3.tvanywhere.ae/hls/alarabiya/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15323468166894.png" group-title="Saudi Arabia(السعودية)",22 TV
+http://62.210.141.179:8000/ibrahim/123456/1215
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ahlu.tv/wp-content/uploads/2017/07/logo.png" group-title="Saudi Arabia(السعودية)",Ahel Al Quran
+http://62.210.141.179:8000/ibrahim/123456/225
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" group-title="Saudi Arabia(السعودية)",Al Quran Al Kareem (Mecca)
+http://62.210.141.179:8000/ibrahim/123456/38
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="Saudi Arabia(السعودية)",Al Sunnah Al Nabawiyah (Medina)
+http://62.210.141.179:8000/ibrahim/123456/39
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/857739617105313793/cOh5AlM3_400x400.jpg" group-title="Saudi Arabia(السعودية)",Al-Fursan
+http://62.210.141.179:8000/ibrahim/123456/196
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15190294957541.png" group-title="Saudi Arabia(السعودية)",Al-Qassim
+http://62.210.141.179:8000/ibrahim/123456/91
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United Arab Emirates PREMIUM-SERVER1",altanasuh
+http://m.live.net.sa:1935/m/tanasuhtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asrar-nour.png" group-title="Saudi Arabia(السعودية)",Asrar Nour
+http://213.162.202.9:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="BBCArabic.sa" tvg-name="" tvg-logo="" group-title="News",BBC Arabic [360p]
+http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
+#EXTINF:-1 tvg-id="BBCArabic.sa" tvg-name="" tvg-logo="" group-title="News",BBC Arabic [360p]
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="BBCArabic.sa" tvg-name="" tvg-logo="" group-title="News",BBC Arabic [360p]
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15189495329168.png" group-title="Saudi Arabia(السعودية)",Beity
+http://62.210.141.179:8000/ibrahim/123456/1172
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://catvmedia.ca/wp-content/uploads/2018/01/HD.jpg" group-title="SAUDI ARABIA",Canadian Arab TV (Canada)
+http://192.226.228.32:8080/hls/catv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png" group-title="SAUDI ARABIA",CGTN Arabic (China)
+http://live.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/5022/d1_tv_sa.png" group-title="Saudi Arabia(السعودية)",Dewan TV
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/93.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="SAUDI ARABIA",DW Arabic (Germany)
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15190297818852.png" group-title="Saudi Arabia(السعودية)",Kaifa
+http://62.210.141.179:8000/ibrahim/123456/87
+#EXTINF:-1 tvg-id="" tvg-name="MADINAH" tvg-logo="https://i.ytimg.com/vi/fzpywHj4IXk/hqdefault_live.jpg" group-title="RELIGION",MADINAH
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAKKAH" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/6c/a2/56/6ca256b1-58a8-782c-7057-984a820945df/source/512x512bb.jpg" group-title="RELIGION",MAKKAH
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15190297148375.jpg" group-title="Saudi Arabia(السعودية)",Nilat TV
+http://62.210.141.179:8000/ibrahim/123456/109
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/saudi@2.png" group-title="Saudi Arabia(السعودية)",Saudi 1
+http://62.210.141.179:8000/ibrahim/123456/41
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sba.sa/assets/uploads/2018/07/sbcfut1.png" group-title="Saudi Arabia(السعودية)",SBC
+http://62.210.141.179:8000/ibrahim/123456/40
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/images/taybatv.jpg" group-title="United Arab Emirates PREMIUM-SERVER1",tayba
+http://tayba.live.net.sa:1935/tayba/taybatv/gmswf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i5.satexpat.com/cha/sa/wesal-95x60.gif" group-title="Saudi Arabia(السعودية)",Wesal
+http://62.210.141.179:8000/ibrahim/123456/221
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.wesalhaq.tv/assets/images/logo.png" group-title="Saudi Arabia(السعودية)",Wesal Farsi
+http://62.210.141.179:8000/ibrahim/123456/222
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.zad.tv/wp-content/uploads/2015/04/logo.png" group-title="Saudi Arabia(السعودية)",ZAD
+http://62.210.141.179:8000/ibrahim/123456/129
+
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT 1 FHD" tvg-logo="http://flashresim.com/upload/MTVjYzg0NWNjODg4OTI.png",TR:TRT 1 FHD
+https://blutv-beta.akamaized.net/trt1hd/trt1hd.smil/chunklist_b2596000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV FHD" tvg-logo="http://flashresim.com/upload/MTVjYzc1YTg5Njc5M2M.jpg",TR: ATV FHD
+https://blutv-beta.akamaized.net/atvhd/atvhd.smil/chunklist_b1628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:SHOW TV FHD" tvg-logo="http://flashresim.com/upload/MTVjYzc1YmI1OGUwMDA.jpg",TR:SHOW TV FHD
+https://blutv-beta.akamaized.net/showhd/showtvhd.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:KANAL D FHD" tvg-logo="http://flashresim.com/upload/MTVjYzc1YzcxYWUxMGI.png",TR: KANAL D FHD
+https://blutv-beta.akamaized.net/kanaldhd/kanaldhd.smil/chunklist_b2628000_slturk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:STAR TV FHD" tvg-logo="http://flashresim.com/upload/MTVjYzc1ZDU1NjhlOWQ.png",TR: STAR TV FHD
+https://blutv-beta.akamaized.net/startvhd/startvhd.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TV 8 HD" tvg-logo="http://flashresim.com/upload/MTVjYzc1ZThiNGFiY2Q.png",TR: TV 8  HD
+https://blutv-beta.akamaized.net/tv8hd/tv8hd.smil/chunklist_b1596000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TV 8.5 HD" tvg-logo="http://flashresim.com/upload/MTVjYzc1ZmEyNDQ4M2M.png",TR: TV 8.5  HD
+https://blutv-beta.akamaized.net/tv8.5hd/tv8.5hd.smil/chunklist_b1596000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FOX TV FHD" tvg-logo="http://flashresim.com/upload/MTVjYzc2MDc2YzgyOWI.png",TR: FOX TV  FHD
+https://blutv-beta.akamaized.net/foxtvhd/foxtvhd.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:FX TV FHD" tvg-logo="http://flashresim.com/upload/MTVjYzgzYzhhNWIzNWE.jpg",TR: FX TV FHD
+https://blutv-beta.akamaized.net/fx/fx.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEYAZ TV HD" tvg-logo="http://flashresim.com/upload/MTVjY2EwNGNhZTc2Yjc.png",TR:BEYAZ TV HD
+https://blutv-beta.akamaized.net/beyaztv/beyaztv.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TEVE 2 FHD" tvg-logo="http://flashresim.com/upload/MTVjYzc2MWY3Njk4N2Q.png",TR: TEVE 2 FHD
+https://blutv-beta.akamaized.net/teve2hd/teve2hd.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:A2 FHD" tvg-logo="http://flashresim.com/upload/MTVjY2NhY2MzZThhNGM.jpg",TR: A2 FHD
+https://blutv-beta.akamaized.net/a2/a2.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:NTV FHD" tvg-logo="http://flashresim.com/upload/MTVjYzg0NWViOTFkMTQ.png",TR: NTV FHD
+https://blutv-beta.akamaized.net/ntvhd/ntvhd.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TGRT HABER HD" tvg-logo="http://flashresim.com/upload/MTVjYzg0OGZjODY5MDg.png",TR:TGRT HABER HD
+https://5ab9557ae2fa9.streamlock.net/tgrt_haber/amlst:live-25/chunklist_w479861623_b1200096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:A HABER FHD" tvg-logo="http://flashresim.com/upload/MTVjYzc2NjliMzg3ODY.png",TR:A HABER HD
+https://mn-nl.mncdn.com/blutv_live/ahaber/ahaber.smil/chunklist_b2628000_sltur.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="TR:ULKE TV FHD" tvg-logo="http://flashresim.com/upload/MTVjYzgzNjJmNjIzNzM.jpg",TR:ULKE TV HD
+https://blutv-beta.akamaized.net/ulketvhd/ulketvhd.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:HABER TURK FHD" tvg-logo="http://flashresim.com/upload/MTVjYzgzNjY1YjNjMDA.png",TR:HABER TURK HD
+https://blutv-beta.akamaized.net/haberturkhd/haberturkhd.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:CNN TURK FHD" tvg-logo="http://flashresim.com/upload/MTVjYzgzYjljOGQyNTQ.jpg",TR:CNN TURK HD
+https://blutv-beta.akamaized.net/cnnturkhd/cnnturkhd.smil/chunklist_b2628000_slturk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:HABER GLOBAL FHD" tvg-logo="http://flashresim.com/upload/MTVjYzgzYmQxODVlNjI.jpg",TR:HABER GLOBAL HD
+https://eijxuuic.rocketcdn.com/chunklist_b478000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:CINE 5 HD" tvg-logo="http://flashresim.com/upload/MTVjYzgzODE1YjY4M2Q.png",TR:CINE 5 HD
+http://win1.yayin.com.tr/cine5/cine5/chunklist_w1469063563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TV 24 HD" tvg-logo="http://flashresim.com/upload/MTVjYzgzODNlYTEyNmU.png",TR:TV 24 HD
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="TR:TV360 FHD" tvg-logo="http://flashresim.com/upload/MTVjYzgzMDRhYjllNTE.png",TR:TV360 HD
+https://stream-12.dc3.dailymotion.com/sec(4wsleh6emjMKklQV7OTPyKCLJEXlkELMPEukwZH_puo)/dm/3/x648uq8/s/live-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:DMAX HD" tvg-logo="http://flashresim.com/upload/MTVjYzgzZDI3NGY0NjU.png",TR:DMAX HD
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TLC HD" tvg-logo="http://flashresim.com/upload/MTVjY2NhYjk3ZGM4NDM.jpg",TR:TLC HD
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT BELGESEL FHD" tvg-logo="http://flashresim.com/upload/MTVjY2NiMGIxNWQwOGM.jpg",TR:TRT BELGESEL FHD
+https://mn-nl.mncdn.com/blutv_live/trtbelgesel/trtbelgesel.smil/chunklist_b2628000_slturk.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="TR:POWER TURK FHD" tvg-logo="http://flashresim.com/upload/MTVjYzgzYTA3NWU0YWI.jpg",TR:POWER TURK HD
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:KRAL TV HD" tvg-logo="http://flashresim.com/upload/MTVjYzgzYTgyZTczM2I.jpg",TR:KRAL TV HD
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:KRALPOP HD" tvg-logo="http://flashresim.com/upload/MTVjYzgzYWUxY2ZkNzI.png",TR:KRALPOP HD
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:DREAM TURK HD" tvg-logo="http://flashresim.com/upload/MTVjYzgzYjQzODQwM2Q.jpg",TR:DREAM TURK HD
+https://mn-nl.mncdn.com/blutv_live/dreamturk/dreamturk.smil/chunklist_b1596000_sltur.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT COCUK HD" tvg-logo="http://flashresim.com/upload/MTVjY2NiMWI4YjU4Yjk.jpg",TR:TRT COCUK HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1250_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="TR:SHOW TV FHD" tvg-logo="http://flashresim.com/upload/MTVjYzc1YmI1OGUwMDA.jpg",TR:SHOW TV FHD
+https://blutv-beta.akamaized.net/showhd/showtvhd.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:KANAL D FHD" tvg-logo="http://flashresim.com/upload/MTVjYzc1YzcxYWUxMGI.png",TR: KANAL D FHD
+https://blutv-beta.akamaized.net/kanaldhd/kanaldhd.smil/chunklist_b2628000_slturk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://puu.sh/rR8Rh/2dc99880ec.png" group-title="Turkey-WebTV",13tv
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",A HABER HD [360p]
+http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTCTiAARUg0Pvdf0yWRpR9X5RO6MIHT3j_FMx0DEPUkKl6Xy_" group-title="",A SPOR HD
+http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://akilli.tv/assets/img/logo.png" group-title="Turkey (Türkiye)",Akilli TV
+http://akillitvhls.cdn.streamprovider.net/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/o3G9ddv.png" group-title="TURKEY",AKSU TV
+http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kurdtvs.net/uploads/amozhgary.png" group-title="RELIGION",Amozhgary TV (Kurdistan)
+http://e7wfgmi6.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/AmozhgaryLiveTv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://turkey.mom-rsf.org/typo3temp/_processed_/6/3/csm_239-101_import_eef1b9d1cc.png" group-title="Turkey (Türkiye)",ATV
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ATV [TR][360p]
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BEN TV
+http://kanalben.cubecdn.net/live/kanalben1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://puu.sh/uZoIA/e0c858397b.png" group-title="Turkey-WebTV",BHTV Peru
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Turkey-WebTV",BRT 1
+http://wms.brtk.net:1935/live/brt1/BratuMarian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1459039529.png" group-title="CYPRUS",BRT 1 (Turkish)
+http://wms.brtk.net:1935/live/brt1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Turkey-WebTV",BRT 2
+http://wms.brtk.net:1935/live/brt2/BratuMarian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1459039476.png" group-title="CYPRUS",BRT 2 (Turkish)
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Turk" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/763.png" group-title="Internationals",CNN Turk
+http://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mirzaturizm.com.tr/site/assets/files/1118/cnnturk-logo2.jpg" group-title="TURKEY",CNN Turk
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mirzaturizm.com.tr/site/assets/files/1118/cnnturk-logo2.jpg" group-title="TURKEY",CNN Turk (Opt-2)
+https://cdn.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CNN Turk [TR][576p]
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.yilmaztv.com/logo/cnnturk.png" group-title="",CNN TÜRK
+https://212224109111.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png" group-title="",CNNTÜRK
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://puu.sh/mKFpp/77be8fe6f9.png" group-title="Turkey-WebTV",CTNI
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dersim62.tv/wp-content/uploads/2016/05/3v3.jpg" group-title="Turkey (Türkiye)",Dersim62 TV
+http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Dream Turk TV [540p]
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.dreamtv.com.tr/assets/dist/images/dream-tv-logo.png" group-title="Turkey (Türkiye)",Dream TV
+http://live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Dream TV [540p]
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.eurostartv.com.tr/Content/img/logo.png" group-title="Turkey (Türkiye)",EuroStar
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+#EXTINF:-1 tvg-id="FilmBox.tr" tvg-name="FilmBox" tvg-logo="https://static.iptv-epg.com/tr/Filmbox.tr.png" group-title="Movies",FilmBox
+http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/1071/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://frmtv.com/wp-content/uploads/2017/08/frmtvlogo.png" group-title="TURKEY",FRM TV
+http://185.50.68.221:1935/live/myStream/iptvdelisi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hdtvler.tv//media/images/tvlogo/7678c74d-3003-415c-8a90-d50bf31531b6_haberturk-turk-hd.jpg" group-title="Turkey (Türkiye)",Haber Turk
+http://soledge7.dogannet.tv/S1/HLS_LIVE/haberturk/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",istanbul2 [720p]
+http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kanal19tv.com/wp-content/uploads/KANAL19-WEB.jpg" group-title="Turkey (Türkiye)",Kanal 19
+http://live.arkumedia.com:1935/kanal19tv/kanal19tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.yilmaztv.com/logo/kanal-d.png" group-title="",KANAL D
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="Turkey (Türkiye)",Kanal D
+https://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",KANAL D [360p]
+http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",KANAL D [480p]
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",KANAL D [480p]
+http://188.138.9.246/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",KANAL D TURKEY
+http://212.224.109.109/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://muzrad.com/wp-content/uploads/2015/11/muzrad_kral-world-radio-8-ilde-yayinda.jpg" group-title="Turkey (Türkiye)",Karl World
+http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",KRAL HD [360p]
+http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",KRAL HD [720p]
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-BhzoVXN1umY/XEitcIiOCVI/AAAAAAAABCg/bHQmYfFQ1iARNI8lJGb74b26kWr_eO_EQCLcBGAs/s1600/kral.png" group-title="Turkey (Türkiye)",Kral Performans
+http://0ajuu84p.rocketcdn.com/kraldijital-konsertv_720/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Kral PoP
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvsefasi.com/images/tvlogo/kralpopakustik.png" group-title="Turkey (Türkiye)",Kral POP Akustik
+http://dmu3sqri.rocketcdn.com/kraldijital-akustiktv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvsefasi.com/images/tvlogo/kralpopakustik.png" group-title="Turkey (Türkiye)",Kral Pop Akustik
+http://0ajuu84p.rocketcdn.com/kraldijital-akustiktv_720/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-jTr_QYPH05c/V7HPOLRjYrI/AAAAAAAAQO8/XrTNox9lXU0aUJMy6srE3z3ewAYZjnQwgCLcB/s1600/kralpopkonser.jpg" group-title="Turkey (Türkiye)",Kral Pop Konser
+http://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://puu.sh/nsWwi/c18fe4842e.png" group-title="Turkey-WebTV",m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MECLIS TV [360p]
+http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MUSICA:Dream Tv
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1437563828_ntv.png" group-title="",NTV
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1437563828_ntv.png" group-title="",NTV HD izle
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ON4 TV
+http://yayin.netradyom.com:1935/live/on4/playist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rudaw.net/ContentFilesArchive/137909Image1.jpg" group-title="KURDISTAN",Rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SEMERKAND
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SEMERKAND (1+) HD
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Turkey-WebTV",SEMERKAND HD
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/BratuMarian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SEMERKAND HD
+http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SEMERKAND YEDEK HD
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/jWP3ntl64I4/maxresdefault_live.jpg" group-title="",Star
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Star_TV_logosu.png" group-title="Turkey (Türkiye)",Star TV
+https://blutv-beta.akamaized.net/startvhd/startvhd.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",STR SIVAS
+http://stream.taksimbilisim.com:1935/srt/smil:srt.smil/chunklist_w62083413_b500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Tay TV HD
+http://media.netd.com.tr/S2/HLS_LIVE/tay/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" group-title="",TEVE 2
+http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-08/1438599962_tgrteu1.png" group-title="",TGRT AVRUPA HD izle
+http://cdn1.streamencoding.com:1935/tgrt_eu/amlst:live-32/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/458666982905098240/Ef3T7N7P.png" group-title="TURKEY",TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1438125096_tgrtbelgesel.png" group-title="",TGRT BELGESEL HD izle
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-08/1438599705_tgrthaber.png" group-title="",TGRT HABER HD izle
+http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1437751075_tjk.png" group-title="",TJK TV HD izle
+http://tjktv.ercdn.net/tjktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.yilmaztv.com/logo/tlc.png" group-title="",TLC HD
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TR: Turkey",TR: SPORTS TV (2+)
+http://sportstv.live.netdirekt.com.tr/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United Arab Emirates PREMIUM-SERVER4",TRT 1 HD
+http://62.210.141.179:8000/live/ibrahim/123456/289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-08/1438631355_trt1.png" group-title="",TRT 1 HD izle
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United Arab Emirates PREMIUM-SERVER4",TRT Arapca
+http://62.210.141.179:8000/live/ibrahim/123456/298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United Arab Emirates PREMIUM-SERVER4",TRT AVAZ
+http://62.210.141.179:8000/live/ibrahim/123456/291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.batitrakya.org/wp-content/uploads/2016/01/trt-avaz.jpg" group-title="TURKEY",TRT Avaz
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United Arab Emirates PREMIUM-SERVER4",TRT BELGESEL
+http://62.210.141.179:8000/live/ibrahim/123456/286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United Arab Emirates PREMIUM-SERVER4",TRT COCUK
+http://62.210.141.179:8000/live/ibrahim/123456/285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://trthaberstatic.s3-website-eu-west-1.amazonaws.com/resimler/542000/543144.jpg" group-title="TURKEY",TRT Cocuk
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.diyanet.tv/Diyanet-Theme/images/logo.png" group-title="Turkey (Türkiye)",TRT Diyanet
+https://nocvp-usd.noccdn.net/asset/7wGduAH1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/CyVPO6MW8AAvy-0.jpg" group-title="TURKEY",TRT Haber
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United Arab Emirates PREMIUM-SERVER4",TRT HABER
+http://62.210.141.179:8000/live/ibrahim/123456/283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United Arab Emirates PREMIUM-SERVER4",TRT KURDI
+http://62.210.141.179:8000/live/ibrahim/123456/340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TRT Kurdi
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canlitv.gallery/wp-content/uploads/2016/09/trtmuzik-tv-canli.png" group-title="TURKEY",TRT Muzik
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ecanlitvizle.net/logo/trt-spor-izle.png" group-title="TURKEY",TRT Spor
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United Arab Emirates PREMIUM-SERVER4",TRT TURK
+http://62.210.141.179:8000/live/ibrahim/123456/279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TRT TURKEY
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United Arab Emirates PREMIUM-SERVER4",TRT WORLD
+http://62.210.141.179:8000/live/ibrahim/123456/290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",TRT WORLD
+https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canlitv.world/images/channels/vuslat-tv.png" group-title="TURKEY",Vulsat TV
+http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",VUSLAT TV
+http://yayin3.canlitv.com:1935/live/vuslattv/HasBahCa.m3u8
+#EXTINF:-1 tvg-name="SHOW TV" tvg-language="Turkish" tvg-country="TR" tvg-id="SHOW TV" tvg-logo="http://www.ecanlihdtvizle.com/wp-content/uploads/2012/08/showhd.png" group-title="Family",SHOW TV (Family) (TR) (Turkish)
+http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
