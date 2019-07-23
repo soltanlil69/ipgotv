@@ -1,0 +1,16 @@
+http://95.170.215.101/hls/Bein-Max-HD1-MCR.m3u8
+http://95.170.215.101/hls/Bein-Max-HD2-MCR.m3u8
+http://95.170.215.101/hls/Bein-Max-HD3-MCR.m3u8
+http://95.170.215.101/hls/Bein-Max-HD4-MCR.m3u8
+http://163.172.117.134:80/live.ts?channelId=178
+http://163.172.117.134:80/live.ts?channelId=179
+http://163.172.117.134:80/live.ts?channelId=180
+http://163.172.117.134:80/live.ts?channelId=181
+http://163.172.117.134:80/live.ts?channelId=182
+http://163.172.117.134:80/live.ts?channelId=183
+http://163.172.117.134:80/live.ts?channelId=184
+http://163.172.117.134:80/live.ts?channelId=185
+http://163.172.117.134:80/live.ts?channelId=186
+http://163.172.117.134:80/live.ts?channelId=187
+http://163.172.117.134:80/live.ts?channelId=188
+http://163.172.117.134:80/live.ts?channelId=189
